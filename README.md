@@ -89,23 +89,10 @@ An intelligent tool that allows you to upload PDFs and ask questions about their
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptadi0406-alt&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptadi0406-alt&theme=github-dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptadi0406-alt&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guptadi0406-alt&theme=github-dark&hide_border=true)
-
-</div>
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <div align="center">
 
