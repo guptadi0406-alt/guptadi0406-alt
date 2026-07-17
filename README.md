@@ -105,15 +105,7 @@ An intelligent tool that allows you to upload PDFs and ask questions about their
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=guptadi0406-alt&theme=darkhub&no-frame=true&row=2&column=3)
-
-</div>
-
----
 
 ## 🎓 LeetCode
 
