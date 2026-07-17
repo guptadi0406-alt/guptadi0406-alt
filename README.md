@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Computer Science student** dedicated to building scalable and efficient web applications. I specialize in **Full Stack Development** with a strong focus on the **MERN stack** and backend engineering. I'm genuinely interested in **System Design**, **Backend Architecture**, and exploring **AI-powered applications**. Currently, I'm advancing my knowledge in backend development, data structures, and algorithms while staying updated with the latest web technologies.
+I'm a passionate **Computer Science student** dedicated to building scalable and efficient web applications. I specialize in **Full Stack Development** with a strong focus on the **MERN stack** and backend technologies. With a solid foundation in **DSA** and **problem-solving**, I love creating impactful solutions that make a difference.
 
 ---
 
@@ -81,7 +81,7 @@ An intuitive tool to explore GitHub profiles and analyze repository statistics u
 ### 3. 🤖 AskMate – Your AI-Powered PDF Assistant
 **Intelligent Document Q&A with RAG**
 
-An intelligent tool that allows you to upload PDFs and ask questions about their content. Using AI and Retrieval-Augmented Generation (RAG), AskMate reads your documents, understands the context, and provides accurate, context-aware answers. Perfect for research papers, manuals, reports, or any PDF where you need quick insights.
+An intelligent tool that allows you to upload PDFs and ask questions about their content. Using AI and Retrieval-Augmented Generation (RAG), AskMate reads your documents, understands the context, and provides accurate, context-aware answers.
 
 - **Tech Stack:** Python, FastAPI, React.js (Vite), QuadrantDB (Docker), OpenAI API, LangChain
 - **Features:** PDF upload & processing, AI-powered Q&A, Context-aware answers, RAG implementation, Semantic search, Document understanding
