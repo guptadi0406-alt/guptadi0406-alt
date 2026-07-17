@@ -3,10 +3,7 @@
 <!-- Banner -->
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,100:8338EC&height=200&section=header&text=Aditya%20Gupta&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
-<!-- Greeting with Typing Animation -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Aditya+Gupta;Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</h1>
+
 
 ### 🚀 Full Stack Developer | MERN Stack | Java | Problem Solver
 
