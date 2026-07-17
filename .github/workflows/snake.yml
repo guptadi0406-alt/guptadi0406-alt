@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * 0"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -13,8 +16,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -22,4 +23,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?Let me check what's happening with your workflow and the snake animation generation.
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          destination_dir: ./
