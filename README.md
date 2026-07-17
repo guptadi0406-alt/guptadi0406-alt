@@ -105,7 +105,15 @@ An intelligent tool that allows you to upload PDFs and ask questions about their
 
 ---
 
+## 🐍 Contribution Snake
 
+<div align="center">
+
+![Snake eating contributions](https://raw.githubusercontent.com/guptadi0406-alt/guptadi0406-alt/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
 
 ## 🎓 LeetCode
 
